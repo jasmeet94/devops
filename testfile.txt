@@ -1,1 +1,12 @@
+B
+Ddd
+dd
+th
+wq
+:wq
+
+C
+A
+B
+
 this is new file
